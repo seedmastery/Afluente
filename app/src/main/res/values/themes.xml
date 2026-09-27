@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Afluente" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Afluente" parent="Base.Theme.Afluente">
+        <item name="android:fontFamily">@font/poppins_thin</item>
+    </style>
+
+</resources>
