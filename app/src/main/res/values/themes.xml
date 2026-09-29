@@ -6,7 +6,7 @@
     </style>
 
     <style name="Theme.Afluente" parent="Base.Theme.Afluente">
-        <item name="android:fontFamily">@font/poppins_thin</item>
+        <item name="android:fontFamily">@font/inter</item>
     </style>
 
 </resources>

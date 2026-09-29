@@ -8,4 +8,5 @@
     <color name="cinza_texto">#55606B</color>
     <color name="cinza_borda">#DDE3EA</color>
     <color name="cinza_placeholder">#9AA5B1</color>
+    <color name="progress_inativo">#3A5578</color>
 </resources>

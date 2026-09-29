@@ -8,20 +8,35 @@
     android:background="@drawable/bg_gradient"
     tools:context=".MainActivity">
 
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="700dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:contentDescription="Logo Afluente"
+        android:src="@drawable/afluentetitulo"
+        app:layout_constraintBottom_toTopOf="@id/txtSubtitulo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
     <TextView
         android:id="@+id/txtSubtitulo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:letterSpacing="0.15"
         android:text="@string/subtitulo"
         android:textColor="#BFC8D8"
         android:textSize="12sp"
-        android:letterSpacing="0.15"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintVertical_bias="0.45"
-        />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.483" />
 
     <TextView
         android:id="@+id/rodape"
