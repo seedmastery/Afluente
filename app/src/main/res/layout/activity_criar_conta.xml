@@ -32,7 +32,7 @@
             <ImageView
                 android:layout_width="115dp"
                 android:layout_height="22dp"
-                android:src="@drawable/afluentetitulo"
+                android:src="@drawable/logo_afluente"
                 android:contentDescription="Logo Afluente" />
 
             <!-- Espaçador: empurra o "1 de 5" pro final -->
