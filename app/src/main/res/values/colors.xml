@@ -9,4 +9,7 @@
     <color name="cinza_borda">#DDE3EA</color>
     <color name="cinza_placeholder">#9AA5B1</color>
     <color name="progress_inativo">#3A5578</color>
+    <color name="icon_bg_azul">#DCE9FB</color>
+    <color name="icon_bg_amarelo">#FCEEC9</color>
+    <color name="cinza_fundo_input">#F4F6F9</color>
 </resources>
